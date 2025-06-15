@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/project:latest
+        tags: lithu213/project:latest
