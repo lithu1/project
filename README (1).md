@@ -99,14 +99,12 @@ The CI/CD pipeline (`ci.yml`) performs the following:
 - Web browser showing `http://localhost:5000`
 - Terminal showing `docker run` log
 
+
+![image](https://github.com/user-attachments/assets/5afc6d25-07fe-44b2-9603-27f3407c63a3)
+![image](https://github.com/user-attachments/assets/9a46d5f7-6356-46a4-a684-d652b769fe4a)
+
+
+
 ---
 
-## 📄 License
 
-This project is open-source and licensed under the [MIT License](LICENSE).
-
----
-
-## ✍️ Author
-
-**lithu213**
